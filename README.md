@@ -1,4 +1,8 @@
+
+
 # Sistem-za-upis-akademske-godine
+
+U fajlu ProjectExplanation  nalaze se slike za GUI i objasnjenja funckionalnsti projekta. Akcenat ovog projekta je na krristenju Java programskog jezika i povezivanje i rad sa bazom podataka. Akcenat nije toliko baziran na front end programiranje. 
 Projekat se odnosi na sistem za upis akademske godine kreiran u Java programskom jeziku.  Korištena je opcija JPA Project u Eclipsu za kreiranje ovog projekta. Korištene su biblioteke za EclipseLink i embedded derbi bazu(10.2) koje su priložene.  Biblioteke je potrebno dodati u classpath naseg JPA projekta. Pri kreiranju JPA projekta u Eclipsu potrebno je konfigurisati bazu i korsititi derbi jar biblioteku koja je priložena.  Nakon što je projekat kreiran potrebno je u src ubaciti pakete models,GUI,runners,services koji su prilozeni te  podesiti persistance.xml fajl. 
 
 Kada je baza povezana i kada su svi fajlovi ubaceni, sinhronizirati class list na persistence.xml fajlu te ici na opciju generate tables from entities.
